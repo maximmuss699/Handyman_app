@@ -1,0 +1,8 @@
+.gradient-custom {
+    background-image: url('../img/room.webp');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    url('../img/candyman_login.webp');
+    background-blend-mode: overlay;
+}
